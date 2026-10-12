@@ -359,7 +359,7 @@ scholar:
   last_name: [Belin]
   first_name: [Timothy, R.]
 
-  style: apa
+  style: ./physical-review-fluids.csl
   locale: en
 
   source: /_bibliography/

@@ -1,79 +1,141 @@
-# Upload photos to assets/img/about/ using filenames without spaces.
-# Then replace src: "" with a path such as /assets/img/about/hiking-01.jpg.
-# Add descriptive alt text and an optional caption; duplicate a photo block to add more.
-# Empty src values show placeholders rather than broken images.
-
-- id: hiking
-  title: Hiking
-  description: >-
-    I enjoy getting out on the trail, whether that means a mountain view, a waterfall, or a winding canyon. Hiking is a chance to slow down, explore somewhere new, and spend time with friends.
+- id: cycling
+  title: Cycling
+  description: My favorite weekend activity is to grab my road bike, plan a fun route, and explore new roads in my area (especially if they are very hilly).
   photos:
-    - src: ""
-      alt: ""
-      caption: ""
-    - src: ""
-      alt: ""
-      caption: ""
-    - src: ""
-      alt: ""
-      caption: ""
+    - src: "/assets/img/about/cycling/IMG_0119 Large.png"
+      alt: "Cycling — photo 1"
+    - src: "/assets/img/about/cycling/IMG_0477 Large.png"
+      alt: "Cycling — photo 2"
+    - src: "/assets/img/about/cycling/IMG_0785 Large.png"
+      alt: "Cycling — photo 3"
+    - src: "/assets/img/about/cycling/IMG_0786 Large.png"
+      alt: "Cycling — photo 4"
+    - src: "/assets/img/about/cycling/IMG_0895 Large.png"
+      alt: "Cycling — photo 5"
+    - src: "/assets/img/about/cycling/IMG_0925 Large.png"
+      alt: "Cycling — photo 6"
+    - src: "/assets/img/about/cycling/IMG_0945 Large.png"
+      alt: "Cycling — photo 7"
+    - src: "/assets/img/about/cycling/IMG_0950 Large.png"
+      alt: "Cycling — photo 8"
+    - src: "/assets/img/about/cycling/IMG_4694 Large.png"
+      alt: "Cycling — photo 9"
+    - src: "/assets/img/about/cycling/IMG_4794 Large.png"
+      alt: "Cycling — photo 10"
+    - src: "/assets/img/about/cycling/exported_image Large.png"
+      alt: "Cycling — photo 11"
 
-- id: rock-climbing
-  title: Rock Climbing
-  description: >-
-    Rock climbing is another way I like to spend time outside and challenge myself. I enjoy the mix of movement, problem-solving, and figuring things out with friends.
+- id: frisbee
+  title: Ultimate Frisbee
+  description: I picked up ultimate frisbee at Union College, and I enjoy being active and spending time with a team.
   photos:
-    - src: ""
-      alt: ""
-      caption: ""
-    - src: ""
-      alt: ""
-      caption: ""
-    - src: ""
-      alt: ""
-      caption: ""
+    - src: "/assets/img/about/frisbee/IMG_0219 Large.png"
+      alt: "Ultimate Frisbee — photo 1"
+    - src: "/assets/img/about/frisbee/IMG_0389 Large.png"
+      alt: "Ultimate Frisbee — photo 2"
+    - src: "/assets/img/about/frisbee/IMG_0561 Large.png"
+      alt: "Ultimate Frisbee — photo 3"
+    - src: "/assets/img/about/frisbee/IMG_0767 Large.png"
+      alt: "Ultimate Frisbee — photo 4"
+    - src: "/assets/img/about/frisbee/IMG_0794 Large.png"
+      alt: "Ultimate Frisbee — photo 5"
+    - src: "/assets/img/about/frisbee/IMG_1108 Large.png"
+      alt: "Ultimate Frisbee — photo 6"
+    - src: "/assets/img/about/frisbee/IMG_1136 Large.png"
+      alt: "Ultimate Frisbee — photo 7"
+    - src: "/assets/img/about/frisbee/IMG_1218 Large.png"
+      alt: "Ultimate Frisbee — photo 8"
+    - src: "/assets/img/about/frisbee/IMG_1286 Large.png"
+      alt: "Ultimate Frisbee — photo 9"
+    - src: "/assets/img/about/frisbee/IMG_1375 Large.png"
+      alt: "Ultimate Frisbee — photo 10"
+    - src: "/assets/img/about/frisbee/IMG_1378 Large.png"
+      alt: "Ultimate Frisbee — photo 11"
+    - src: "/assets/img/about/frisbee/IMG_1386 Large.png"
+      alt: "Ultimate Frisbee — photo 12"
+    - src: "/assets/img/about/frisbee/IMG_1419 Large.png"
+      alt: "Ultimate Frisbee — photo 13"
+    - src: "/assets/img/about/frisbee/IMG_1490 Large.png"
+      alt: "Ultimate Frisbee — photo 14"
+    - src: "/assets/img/about/frisbee/IMG_1676 Large.png"
+      alt: "Ultimate Frisbee — photo 15"
+    - src: "/assets/img/about/frisbee/Tim Frisbee 8 Large.png"
+      alt: "Ultimate Frisbee — photo 16"
+    - src: "/assets/img/about/frisbee/Tim Frisbee Large.png"
+      alt: "Ultimate Frisbee — photo 17"
+    - src: "/assets/img/about/frisbee/Tim Game 5 Large.png"
+      alt: "Ultimate Frisbee — photo 18"
+
+- id: outdoors
+  title: Outdoors
+  description: I enjoy hiking and exploring the outdoors.
+  photos:
+    - src: "/assets/img/about/outdoors/GPTempDownload_Original Large.png"
+      alt: "Outdoors — photo 1"
+    - src: "/assets/img/about/outdoors/IMG_0041 Large.png"
+      alt: "Outdoors — photo 2"
+    - src: "/assets/img/about/outdoors/IMG_0043 Large.png"
+      alt: "Outdoors — photo 3"
+    - src: "/assets/img/about/outdoors/IMG_0045 Large.png"
+      alt: "Outdoors — photo 4"
+    - src: "/assets/img/about/outdoors/IMG_0063 Large.png"
+      alt: "Outdoors — photo 5"
+    - src: "/assets/img/about/outdoors/IMG_0067 Large.png"
+      alt: "Outdoors — photo 6"
+    - src: "/assets/img/about/outdoors/IMG_0900 Large.png"
+      alt: "Outdoors — photo 7"
+    - src: "/assets/img/about/outdoors/IMG_1906 Large.png"
+      alt: "Outdoors — photo 8"
+    - src: "/assets/img/about/outdoors/IMG_3072 Large.png"
+      alt: "Outdoors — photo 9"
+    - src: "/assets/img/about/outdoors/IMG_3097 Large.png"
+      alt: "Outdoors — photo 10"
+    - src: "/assets/img/about/outdoors/IMG_3098 Large.png"
+      alt: "Outdoors — photo 11"
+    - src: "/assets/img/about/outdoors/IMG_6967 Large.png"
+      alt: "Outdoors — photo 12"
+    - src: "/assets/img/about/outdoors/IMG_7039 Large.png"
+      alt: "Outdoors — photo 13"
+    - src: "/assets/img/about/outdoors/IMG_7618 Large.png"
+      alt: "Outdoors — photo 14"
+    - src: "/assets/img/about/outdoors/IMG_7653 Large.png"
+      alt: "Outdoors — photo 15"
+    - src: "/assets/img/about/outdoors/IMG_8313 Large.png"
+      alt: "Outdoors — photo 16"
+    - src: "/assets/img/about/outdoors/IMG_9617 Large.png"
+      alt: "Outdoors — photo 17"
+    - src: "/assets/img/about/outdoors/IMG_9640 Large.png"
+      alt: "Outdoors — photo 18"
+    - src: "/assets/img/about/outdoors/PXL_20261004_001358329 Large.png"
+      alt: "Outdoors — photo 19"
+    - src: "/assets/img/about/outdoors/PXL_20261004_130913224 Large.png"
+      alt: "Outdoors — photo 20"
 
 - id: skiing
   title: Skiing
-  description: >-
-    In winter, I enjoy trading hiking boots for skis and spending a day on the mountain. Snowy views and time on the slopes make a welcome change of pace from the lab.
+  description: In winter, I enjoy spending time on the slopes.
   photos:
-    - src: ""
-      alt: ""
-      caption: ""
-    - src: ""
-      alt: ""
-      caption: ""
-    - src: ""
-      alt: ""
-      caption: ""
-
-- id: camping
-  title: Camping & Exploring
-  description: >-
-    Camping gives me more time to enjoy the places I visit, from an evening sunset to a quiet morning outdoors. I like making room for the small stops and unexpected discoveries along the way.
-  photos:
-    - src: ""
-      alt: ""
-      caption: ""
-    - src: ""
-      alt: ""
-      caption: ""
-    - src: ""
-      alt: ""
-      caption: ""
-
-- id: ultimate-frisbee
-  title: Ultimate Frisbee
-  description: >-
-    Ultimate frisbee combines two things I enjoy: being active and spending time with a team. It has been a big part of my life outside class, including serving as president of Union College’s Ultimate Frisbee Club.
-  photos:
-    - src: ""
-      alt: ""
-      caption: ""
-    - src: ""
-      alt: ""
-      caption: ""
-    - src: ""
-      alt: ""
-      caption: ""
+    - src: "/assets/img/about/skiing/IMG_0346 Large.png"
+      alt: "Skiing — photo 1"
+    - src: "/assets/img/about/skiing/IMG_0351 Large.png"
+      alt: "Skiing — photo 2"
+    - src: "/assets/img/about/skiing/IMG_1388 Large.png"
+      alt: "Skiing — photo 3"
+    - src: "/assets/img/about/skiing/IMG_1645 Large.png"
+      alt: "Skiing — photo 4"
+    - src: "/assets/img/about/skiing/IMG_1658 Large.png"
+      alt: "Skiing — photo 5"
+    - src: "/assets/img/about/skiing/IMG_3763 Large.png"
+      alt: "Skiing — photo 6"
+    - src: "/assets/img/about/skiing/IMG_5438 Large.png"
+      alt: "Skiing — photo 7"
+    - src: "/assets/img/about/skiing/IMG_6548 Large.png"
+      alt: "Skiing — photo 8"
+    - src: "/assets/img/about/skiing/IMG_6551 Large.png"
+      alt: "Skiing — photo 9"
+    - src: "/assets/img/about/skiing/IMG_7964 Large.png"
+      alt: "Skiing — photo 10"
+    - src: "/assets/img/about/skiing/IMG_8461 Large.png"
+      alt: "Skiing — photo 11"
+    - src: "/assets/img/about/skiing/IMG_8746 Large.png"
+      alt: "Skiing — photo 12"

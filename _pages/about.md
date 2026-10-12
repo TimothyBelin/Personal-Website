@@ -1,4 +1,3 @@
-
 ---
 layout: about
 title: about
@@ -32,7 +31,7 @@ I am a Ph.D. student in Mechanical Engineering at the **University of California
 
 My current work investigates how gas injection modifies the air-water interface and the underlying turbulent boundary layer. I use experimental flow diagnostics, including particle image velocimetry (PIV), to characterize flow structures and turbulence topology. I am also developing three-dimensional flow measurement capabilities using multi-camera tomographic particle tracking velocimetry (PTV).
 
-Prior to Berkeley, I received my B.S. in Mechanical Engineering, summa cum laude, from **Union College** in 2026. There, I conducted undergraduate research under [Professor Ali Hamed]([https://muse.union.edu/hameda/]), studying turbulent boundary layers and flow around finite wall-mounted obstacles. My work involved planar PIV, volumetric PTV, and experimental measurements in wind and water tunnels. This research contributed to two peer-reviewed publications in *Physics of Fluids* and *Experiments in Fluids*.
+Prior to Berkeley, I received my B.S. in Mechanical Engineering, summa cum laude, from **Union College** in 2026. There, I conducted undergraduate research under [Professor Ali Hamed](https://muse.union.edu/hameda/), studying turbulent boundary layers and flow around finite wall-mounted obstacles. My work involved planar PIV, volumetric PTV, and experimental measurements in wind and water tunnels. This research contributed to two peer-reviewed publications in *Physics of Fluids* and *Experiments in Fluids*.
 
 Beyond research, I enjoy teaching, mentoring, and making STEM more accessible. At Union College, I worked as a supplemental instructor and peer writing tutor, and I now volunteer as a computer science mentor for high school students in Oakland.
 

@@ -358,12 +358,17 @@ scholar:
   last_name: [Belin]
   first_name: [Timothy, R.]
 
-  style: ./physical-review-fluids.csl
+  style: ./jfm.csl
   locale: en
 
   source: /_bibliography/
   bibliography: papers.bib
-  bibliography_template: bib
+  # Render CSL references and make only the article titles DOI links.
+  bibliography_template: |
+    {% capture linked_title %}<a href="https://doi.org/{{ entry.doi }}" target="_blank" rel="noopener noreferrer">{{ entry.title }}</a>{% endcapture %}
+    <div class="jfm-reference" style="padding-left: 1.5em; text-indent: -1.5em; line-height: 1.65;">
+      {% if entry.doi %}{{ reference | replace: entry.title, linked_title }}{% else %}{{ reference }}{% endif %}
+    </div>
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="en-GB">
+  <info>
+    <title>Timothy Belin — JFM-style references</title>
+    <id>https://timothybelin.github.io/Personal-Website/styles/jfm</id>
+    <link href="https://www.cambridge.org/core/services/aop-file-manager/file/575acd60b925b5240a08d0d8" rel="documentation"/>
+    <category citation-format="author-date"/>
+    <updated>2026-10-12T00:00:00+00:00</updated>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="all" sort-separator=", " initialize-with=". " and="symbol" delimiter=", " delimiter-precedes-last="never" font-variant="small-caps"/>
+    </names>
+  </macro>
+  <macro name="year">
+    <date variable="issued"><date-part name="year"/></date>
+  </macro>
+  <citation>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=" ">
+        <names variable="author"><name form="short" and="symbol"/></names>
+        <text macro="year"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true">
+    <sort><key macro="author"/><key macro="year"/></sort>
+    <layout suffix=".">
+      <group delimiter=" ">
+        <text macro="author"/>
+        <text macro="year"/>
+        <text variable="title" suffix="."/>
+        <text variable="container-title" form="short" font-style="italic"/>
+        <group delimiter=", ">
+          <group delimiter=" ">
+            <text variable="volume" font-weight="bold"/>
+            <text variable="issue" prefix="(" suffix=")"/>
+          </group>
+          <text variable="page"/>
+        </group>
+      </group>
+    </layout>
+  </bibliography>
+</style>

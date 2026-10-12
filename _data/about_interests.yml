@@ -1,0 +1,79 @@
+# Upload photos to assets/img/about/ using filenames without spaces.
+# Then replace src: "" with a path such as /assets/img/about/hiking-01.jpg.
+# Add descriptive alt text and an optional caption; duplicate a photo block to add more.
+# Empty src values show placeholders rather than broken images.
+
+- id: hiking
+  title: Hiking
+  description: >-
+    I enjoy getting out on the trail, whether that means a mountain view, a waterfall, or a winding canyon. Hiking is a chance to slow down, explore somewhere new, and spend time with friends.
+  photos:
+    - src: ""
+      alt: ""
+      caption: ""
+    - src: ""
+      alt: ""
+      caption: ""
+    - src: ""
+      alt: ""
+      caption: ""
+
+- id: rock-climbing
+  title: Rock Climbing
+  description: >-
+    Rock climbing is another way I like to spend time outside and challenge myself. I enjoy the mix of movement, problem-solving, and figuring things out with friends.
+  photos:
+    - src: ""
+      alt: ""
+      caption: ""
+    - src: ""
+      alt: ""
+      caption: ""
+    - src: ""
+      alt: ""
+      caption: ""
+
+- id: skiing
+  title: Skiing
+  description: >-
+    In winter, I enjoy trading hiking boots for skis and spending a day on the mountain. Snowy views and time on the slopes make a welcome change of pace from the lab.
+  photos:
+    - src: ""
+      alt: ""
+      caption: ""
+    - src: ""
+      alt: ""
+      caption: ""
+    - src: ""
+      alt: ""
+      caption: ""
+
+- id: camping
+  title: Camping & Exploring
+  description: >-
+    Camping gives me more time to enjoy the places I visit, from an evening sunset to a quiet morning outdoors. I like making room for the small stops and unexpected discoveries along the way.
+  photos:
+    - src: ""
+      alt: ""
+      caption: ""
+    - src: ""
+      alt: ""
+      caption: ""
+    - src: ""
+      alt: ""
+      caption: ""
+
+- id: ultimate-frisbee
+  title: Ultimate Frisbee
+  description: >-
+    Ultimate frisbee combines two things I enjoy: being active and spending time with a team. It has been a big part of my life outside class, including serving as president of Union College’s Ultimate Frisbee Club.
+  photos:
+    - src: ""
+      alt: ""
+      caption: ""
+    - src: ""
+      alt: ""
+      caption: ""
+    - src: ""
+      alt: ""
+      caption: ""

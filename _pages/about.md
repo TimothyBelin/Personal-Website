@@ -7,7 +7,7 @@ subtitle: Mechanical Engineering Ph.D. Student | <a href="https://flow-lab-berke
 
 profile:
   align: right
-  image: Tim Headshot circle.png.jpg
+  image: assets/img/Tim Headshot circle.png
   image_circular: true
   more_info: >
     <p>2109 Etcheverry Hall</p>

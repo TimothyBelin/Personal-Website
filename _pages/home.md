@@ -31,6 +31,8 @@ I am a Ph.D. student in Mechanical Engineering at the **University of California
 
 My research focuses on experimental fluid mechanics, particularly multiphase flows, wall-bounded turbulence, and frictional drag reduction through air lubrication. My current work investigates how gas injection modifies the air-water interface and the underlying turbulent boundary layer. I use experimental flow diagnostics, including particle image velocimetry (PIV), to characterize flow structures and turbulence topology.
 
+Outside the lab, I enjoy rock climbing, hiking, skiing, camping, ultimate frisbee, and exploring the outdoors.
+
 ## Selected Publications
 
 {% include selected_papers.liquid %}

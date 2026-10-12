@@ -6,9 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-I was born and raised in Lafayette, Colorado, where I attended Centaurus High School and graduated in 2021 (sko warriors!). I took a gap year away from academia to take a break from online school, working on small scale residential remodels with <a href="https://www.carvecolorado.com/" target="_blank" rel="noopener noreferrer">Carve Construction</a> in Boulder, Colorado. Then I spent four years in Schenectady, New York, studying mechanical engineering and mathematics at Union College (sko chargers!), where I picked up ultimate frisbee. Recently, I moved out to the bay area to pursue a Ph.D. in mechanical engineering at the University of California, Berkeley. 
-
-Outside the lab, I enjoy cycling, hiking, skiing, ultimate frisbee, and exploring the outdoors. My favorite weekend activity is to grab my road bike, plan a fun route, and go exploring on new roads in my area (especially if they are very hilly).
+I was born and raised in Lafayette, Colorado, where I attended Centaurus High School and graduated in 2021 (sko warriors!). I took a gap year away from academia to take a break from online school, working on small scale residential remodels with <a href="https://www.carvecolorado.com/" target="_blank" rel="noopener noreferrer">Carve Construction</a> in Boulder, Colorado. Then I spent four years in Schenectady, New York, studying mechanical engineering and mathematics at Union College (sko chargers!), where I picked up ultimate frisbee. Recently, I moved out to the bay area to pursue a Ph.D. in mechanical engineering at the University of California, Berkeley. Outside the lab, I enjoy cycling, hiking, skiing, ultimate frisbee, and exploring the outdoors.
 
 <style>
   .interest-galleries { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 2rem; margin-top: 2.5rem; }

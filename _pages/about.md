@@ -7,9 +7,6 @@ nav_order: 1
 ---
 
 I am a native of Lafayette, Colorado.
-
-Prior to Berkeley, I received my B.S. in Mechanical Engineering from [Union College](https://www.union.edu/) in 2026. There, I conducted undergraduate research under [Professor Ali Hamed](https://muse.union.edu/hameda/), experimentally investigating turbulent boundary layer flows around finite wall-mounted obstacles using planar PIV and volumetric PTV.
-
 Outside the lab, I enjoy rock climbing, hiking, skiing, camping, ultimate frisbee, and exploring the outdoors.
 
 <style>

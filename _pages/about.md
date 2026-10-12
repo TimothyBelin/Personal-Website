@@ -3,7 +3,7 @@ layout: page
 permalink: /about/
 title: About
 nav: true
-nav_order: 1
+nav_order: 3
 ---
 
 I was born and raised in Lafayette, Colorado, where I attended Centaurus High School and graduated in 2021 (sko warriors!). I took a gap year away from academia to take a break from online school, working on small scale residential remodels with <a href="https://www.carvecolorado.com/" target="_blank" rel="noopener noreferrer">Carve Construction</a> in Boulder, Colorado. Then I spent four years in Schenectady, New York, studying mechanical engineering and mathematics at Union College (sko chargers!), where I picked up ultimate frisbee. Recently, I moved out to the bay area to pursue a Ph.D. in mechanical engineering at the University of California, Berkeley. 

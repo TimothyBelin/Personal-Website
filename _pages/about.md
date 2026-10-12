@@ -1,34 +1,39 @@
+
 ---
 layout: about
 title: about
 permalink: /
-subtitle: Mechanical Engineering Ph.D. Student | <a href=['#'](https://flow-lab-berkeley.netlify.app/)>FLOW Lab</a> at the University of California, Berkeley
+subtitle: Mechanical Engineering Ph.D. Student | <a href="https://flow-lab-berkeley.netlify.app/" target="_blank" rel="noopener noreferrer">FLOW Lab</a> at the University of California, Berkeley
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: Tim Headshot circle.png.jpg
+  image_circular: true
   more_info: >
     <p>2109 Etcheverry Hall</p>
     <p>2505 Hearst Ave</p>
     <p>Berkeley, California 94709</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: false
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: false
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student in Mechanical Engineering at the **University of California, Berkeley**, where I work with [Professor Simo Mäkiharju](https://flow-lab-berkeley.netlify.app/) in the **FLOW Lab**. My research focuses on experimental fluid mechanics, particularly multiphase flows, wall-bounded turbulence, and frictional drag reduction through air lubrication.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current work investigates how gas injection modifies the air-water interface and the underlying turbulent boundary layer. I use experimental flow diagnostics, including particle image velocimetry (PIV), to characterize flow structures and turbulence topology. I am also developing three-dimensional flow measurement capabilities using multi-camera tomographic particle tracking velocimetry (PTV).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to Berkeley, I received my B.S. in Mechanical Engineering, summa cum laude, from **Union College** in 2026. There, I conducted undergraduate research under [Professor Ali Hamed]([https://muse.union.edu/hameda/]), studying turbulent boundary layers and flow around finite wall-mounted obstacles. My work involved planar PIV, volumetric PTV, and experimental measurements in wind and water tunnels. This research contributed to two peer-reviewed publications in *Physics of Fluids* and *Experiments in Fluids*.
+
+Beyond research, I enjoy teaching, mentoring, and making STEM more accessible. At Union College, I worked as a supplemental instructor and peer writing tutor, and I now volunteer as a computer science mentor for high school students in Oakland.
+
+Outside the lab, I enjoy mountain biking, hiking, skiing, camping, ultimate frisbee, and exploring the outdoors.

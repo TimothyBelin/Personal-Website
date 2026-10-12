@@ -27,12 +27,10 @@ latest_posts:
   limit: 3
 ---
 
-I am a Ph.D. student in Mechanical Engineering at the **University of California, Berkeley**, where I work with [Professor Simo Mäkiharju](https://flow-lab-berkeley.netlify.app/) in the **FLOW Lab**. My research focuses on experimental fluid mechanics, particularly multiphase flows, wall-bounded turbulence, and frictional drag reduction through air lubrication.
+I am a Ph.D. student in Mechanical Engineering at the **University of California, Berkeley**, where I work with [Professor Simo Mäkiharju](https://me.berkeley.edu/people/simo-makiharju/) in the FLOW Lab. 
 
-My current work investigates how gas injection modifies the air-water interface and the underlying turbulent boundary layer. I use experimental flow diagnostics, including particle image velocimetry (PIV), to characterize flow structures and turbulence topology. I am also developing three-dimensional flow measurement capabilities using multi-camera tomographic particle tracking velocimetry (PTV).
+My research focuses on experimental fluid mechanics, particularly multiphase flows, wall-bounded turbulence, and frictional drag reduction through air lubrication. My current work investigates how gas injection modifies the air-water interface and the underlying turbulent boundary layer. I use experimental flow diagnostics, including particle image velocimetry (PIV), to characterize flow structures and turbulence topology.
 
-Prior to Berkeley, I received my B.S. in Mechanical Engineering, summa cum laude, from **Union College** in 2026. There, I conducted undergraduate research under [Professor Ali Hamed](https://muse.union.edu/hameda/), studying turbulent boundary layers and flow around finite wall-mounted obstacles. My work involved planar PIV, volumetric PTV, and experimental measurements in wind and water tunnels. This research contributed to two peer-reviewed publications in _Physics of Fluids_ and _Experiments in Fluids_.
+Prior to Berkeley, I received my B.S. in Mechanical Engineering from [Union College](https://www.union.edu/) in 2026. There, I conducted undergraduate research under [Professor Ali Hamed](https://muse.union.edu/hameda/), experimentally investigating turbulent boundary layer flows around finite wall-mounted obstacles using planar PIV and volumetric PTV.
 
-Beyond research, I enjoy teaching, mentoring, and making STEM more accessible. At Union College, I worked as a supplemental instructor and peer writing tutor, and I now volunteer as a computer science mentor for high school students in Oakland.
-
-Outside the lab, I enjoy mountain biking, hiking, skiing, camping, ultimate frisbee, and exploring the outdoors.
+Outside the lab, I enjoy rock climbing, hiking, skiing, camping, ultimate frisbee, and exploring the outdoors.
